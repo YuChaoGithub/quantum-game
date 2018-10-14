@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 3eac1ca6c0475419f857e0fd00be2ad4
+timeCreated: 1445767028
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ti_0
+    21300002: Ti_1
+    21300004: Ti_2
+    21300006: Ti_3
+    21300008: Ti_4
+    21300010: Ti_5
+    21300012: Ti_6
+    21300014: Ti_7
+    21300016: Ti_8
+    21300018: Ti_9
+    21300020: Ti_10
+    21300022: Ti_11
+    21300024: Ti_12
+    21300026: Ti_13
+    21300028: Ti_14
+    21300030: Ti_15
+    21300032: Ti_16
+    21300034: Ti_17
+    21300036: Ti_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ti_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 487
+        width: 497
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 356
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 357
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 270
+        width: 192
+        height: 62
+      alignment: 9
+      pivot: {x: .552496731, y: .5671736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 192
+        width: 146
+        height: 61
+      alignment: 9
+      pivot: {x: .445185095, y: .548479915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 118
+        width: 200
+        height: 66
+      alignment: 9
+      pivot: {x: .491495401, y: .560133517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 192
+        height: 62
+      alignment: 9
+      pivot: {x: .54894191, y: .575781047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 200
+        width: 146
+        height: 61
+      alignment: 9
+      pivot: {x: .444832385, y: .544013381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 127
+        width: 200
+        height: 66
+      alignment: 9
+      pivot: {x: .493287951, y: .561018944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 305
+        width: 123
+        height: 40
+      alignment: 9
+      pivot: {x: .548358679, y: .57435149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 246
+        width: 94
+        height: 39
+      alignment: 9
+      pivot: {x: .440238148, y: .533892512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 191
+        width: 128
+        height: 42
+      alignment: 9
+      pivot: {x: .492255211, y: .570811331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 94
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 22
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 19
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 13
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 25
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 27
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ti_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

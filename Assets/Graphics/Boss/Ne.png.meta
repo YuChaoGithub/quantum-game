@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: c0f5ac69ce2534061bd7466304c1bd5c
+timeCreated: 1441763321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ne_0
+    21300002: Ne_1
+    21300004: Ne_2
+    21300006: Ne_3
+    21300008: Ne_4
+    21300010: Ne_5
+    21300012: Ne_6
+    21300014: Ne_7
+    21300016: Ne_8
+    21300018: Ne_9
+    21300020: Ne_10
+    21300022: White_on
+    21300024: Yellow_on
+    21300026: Green_on
+    21300028: Blue_on
+    21300030: Red_on
+    21300032: White_off
+    21300034: Yellow_off
+    21300036: Green_off
+    21300038: Blue_off
+    21300040: Red_off
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ne_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 526
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 525
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 526
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 525
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 349
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 345
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 347
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 350
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 163
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 166
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ne_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 165
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_on
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow_on
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 111
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Green_on
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blue_on
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 110
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red_on
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 110
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: White_off
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow_off
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Green_off
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 67
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blue_off
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 69
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red_off
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 68
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

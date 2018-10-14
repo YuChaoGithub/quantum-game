@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sky Proton
+  m_Controller: {fileID: 9100000, guid: ac8374c492e7f48828793d498ad06650, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d2eb30169522848d69b567e57b265dd2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1eb1d58d5cfb147708f9c1d56476dd39, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a7b99cabaa2b44d73ad60510a3d55bc3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b4bdd251dffb541789ec06c941f81038, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e906dced7a18468a854909a00d4853e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0d63e9fe716804ab9958df9e4f514d72, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8271eed4b8afc47e5854f7fe042801b6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 63411ffde33ab45fab9bf98a78aa07fb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1eb1d58d5cfb147708f9c1d56476dd39, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1eb1d58d5cfb147708f9c1d56476dd39, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0d63e9fe716804ab9958df9e4f514d72, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0d63e9fe716804ab9958df9e4f514d72, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 63411ffde33ab45fab9bf98a78aa07fb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 63411ffde33ab45fab9bf98a78aa07fb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b4bdd251dffb541789ec06c941f81038, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b4bdd251dffb541789ec06c941f81038, type: 2}

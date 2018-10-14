@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 292913cd4cb774518bea4370c20c217f
+timeCreated: 1447672003
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Electron_01
+    21300002: Proton_01
+    21300004: Neutron_01
+    21300006: Powered_electron_01
+    21300008: Powered_electron_02
+    21300010: Powered_electron_03
+    21300012: Powered_electron_04
+    21300014: Powered_electron_05
+    21300016: Powered_electron_06
+    21300018: Electron_02
+    21300020: Electron_03
+    21300022: Electron_04
+    21300024: Electron_05
+    21300026: Electron_06
+    21300028: Electron_07
+    21300030: Electron_08
+    21300032: Electron_09
+    21300034: Electron_10
+    21300036: Electron_11
+    21300038: Electron_12
+    21300040: Proton_02
+    21300042: Proton_03
+    21300044: Proton_04
+    21300046: Proton_05
+    21300048: Proton_06
+    21300050: Proton_07
+    21300052: Proton_08
+    21300054: Proton_09
+    21300056: Proton_10
+    21300058: Proton_11
+    21300060: Proton_12
+    21300062: Neutron_02
+    21300064: Neutron_03
+    21300066: Neutron_04
+    21300068: Neutron_05
+    21300070: Neutron_06
+    21300072: Neutron_08
+    21300074: Neutron_07
+    21300076: Neutron_09
+    21300078: Neutron_10
+    21300080: Neutron_11
+    21300082: Neutron_12
+    21300084: Electron_to_Proton_01
+    21300086: Electron_to_Proton_02
+    21300088: Electron_to_Proton_03
+    21300090: Electron_to_Proton_04
+    21300092: Electron_to_Proton_05
+    21300094: Electron_to_Proton_06
+    21300096: Electron_Hurt
+    21300098: Proton Hurt
+    21300100: Proton_to_Electron_01
+    21300102: Proton_to_Electron_02
+    21300104: Proton_to_Electron_03
+    21300106: Proton_to_Electron_04
+    21300108: Proton_to_Electron_05
+    21300110: Proton_to_Electron_06
+    21300112: Neutron_to_Proton_01
+    21300114: Neutron_to_Proton_02
+    21300116: Neutron_to_Proton_03
+    21300118: Neutron_to_Proton_04
+    21300120: Neutron_to_Proton_05
+    21300122: Neutron_to_Proton_06
+    21300124: Neutron_to_Proton_07
+    21300126: Neutron_to_Proton_08
+    21300128: Neutron_to_Proton_09
+    21300130: Neutron_to_Proton_10
+    21300132: Proton_to_Neutron_01
+    21300134: Proton_to_Neutron_02
+    21300136: Proton_to_Neutron_03
+    21300138: Proton_to_Neutron_04
+    21300140: Proton_to_Neutron_05
+    21300142: Proton_to_Neutron_06
+    21300144: positive_battery01
+    21300146: positive_battery02
+    21300148: negative_battery01
+    21300150: negative_battery02
+    21300152: proton_hide
+    21300154: Electron_lightning
+    21300156: Player_0
+    21300158: Player_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Electron_01
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_01
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_01
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 721
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Powered_electron_01
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 536
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Powered_electron_02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 536
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Powered_electron_03
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 536
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Powered_electron_04
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 531
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Powered_electron_05
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 531
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Powered_electron_06
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 531
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_to_Proton_01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_to_Proton_02
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_to_Proton_03
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_to_Proton_04
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_to_Proton_05
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_to_Proton_06
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_Hurt
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1167
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton Hurt
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Electron_01
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Electron_02
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Electron_03
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Electron_04
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Electron_05
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Electron_06
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_01
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 703
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_02
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 698
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_03
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 698
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_04
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 699
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_05
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 699
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_06
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 693
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_07
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 473
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_08
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 473
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_09
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 473
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neutron_to_Proton_10
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 247
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Neutron_01
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 276
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Neutron_02
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 276
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Neutron_03
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 276
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Neutron_04
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 267
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Neutron_05
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 267
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proton_to_Neutron_06
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 267
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: positive_battery01
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 131
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: positive_battery02
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 14
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: negative_battery01
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 131
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: negative_battery02
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 14
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: proton_hide
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 56
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Electron_lightning
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 47
+        width: 248
+        height: 181
+      alignment: 9
+      pivot: {x: .321502924, y: .416609228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_0
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1199
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_1
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 987
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

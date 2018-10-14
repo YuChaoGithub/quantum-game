@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 07e57251499de4641bfd08a2a68e37d9
+timeCreated: 1443149070
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ca_avatar
+    21300002: Ca_grey
+    21300004: Ca_red
+    21300006: Ca_bone
+    21300008: bone_block
+    21300010: skull_square
+    21300012: skull_square_fall
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ca_avatar
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 594
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ca_grey
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 590
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ca_red
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 590
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ca_bone
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 540
+        width: 33
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bone_block
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 648
+        width: 146
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skull_square
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 572
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skull_square_fall
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 493
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: sky electron
+  m_Controller: {fileID: 9100000, guid: 69c88fcc2ffd24764bf3047d4fff1e45, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0d9389697fb4b4122b97774d35641e98, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb6e7cd2be1b2425c8097a5d7f6ec55c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 67811c975518e4fbcb77f5677db0255e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 306255a46bf104857b19fe0aa114cfe3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bd080faeb4e384c708dffa9e3fdbc35e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a6aec6023d59f44d18630d1463ceba45, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb6e7cd2be1b2425c8097a5d7f6ec55c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb6e7cd2be1b2425c8097a5d7f6ec55c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 306255a46bf104857b19fe0aa114cfe3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 306255a46bf104857b19fe0aa114cfe3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a6aec6023d59f44d18630d1463ceba45, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a6aec6023d59f44d18630d1463ceba45, type: 2}

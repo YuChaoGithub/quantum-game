@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Monster
+  - Powered Electron
+  - Wall
+  - Score
+  - Player Bullet
+  - Enemy Bullet
+  - Boss
+  - Bottle
+  - Float Monster
+  - Float Player
+  - Water Pot
+  - Garbage
+  - Water Drop
+  - Player Knife
+  - Photon
+  - Kr Small Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Negative
+  - Positive
+  - Knife
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: top
+    uniqueID: 2795128133
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

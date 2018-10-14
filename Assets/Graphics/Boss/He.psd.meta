@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: ae8352bd80cb849b0af0f2b02f357760
+timeCreated: 1468375299
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: He_0
+    21300002: He_1
+    21300004: He_2
+    21300006: He_3
+    21300008: He_shoot1
+    21300010: He_shoot2
+    21300012: He_shoot3
+    21300014: He_shoot4
+    21300016: He_shoot5
+    21300018: He_shoot6
+    21300020: He_shoot7
+    21300022: He_shoot8
+    21300024: He_shoot9
+    21300026: He_shoot10
+    21300028: He_shoot11
+    21300030: He_leave1
+    21300032: He_leave2
+    21300034: He_leave3
+    21300036: He_bullet
+    21300038: He_bullet_stable01
+    21300040: He_bullet_stable02
+    21300042: He_bullet_explode01
+    21300044: He_bullet_explode02
+    21300046: He_bullet_explode03
+    21300048: He_bullet_explode04
+    21300050: He_bullet_explode05
+    21300052: He Avatar
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: He_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 511
+        width: 84
+        height: 189
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 0}
+        - {x: -84, y: -138}
+        - {x: -83, y: -145}
+        - {x: -52, y: -189}
+        - {x: -41, y: -189}
+        - {x: -39, y: -187}
+        - {x: 0, y: -116}
+        - {x: 0, y: 0}
+    - name: He_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 511
+        width: 84
+        height: 189
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 0}
+        - {x: -76, y: -1}
+        - {x: -84, y: -10}
+        - {x: -84, y: -79}
+        - {x: -59, y: -189}
+        - {x: -25, y: -189}
+        - {x: 0, y: -74}
+        - {x: 0, y: -11}
+        - {x: -13, y: 0}
+    - name: He_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 511
+        width: 84
+        height: 189
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 0}
+        - {x: -84, y: -10}
+        - {x: -84, y: -98}
+        - {x: -50, y: -189}
+        - {x: -35, y: -189}
+        - {x: 0, y: -111}
+        - {x: 0, y: -6}
+        - {x: -2, y: 0}
+    - name: He_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 509
+        width: 84
+        height: 189
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 0}
+        - {x: -84, y: -155}
+        - {x: -54, y: -189}
+        - {x: -39, y: -189}
+        - {x: 0, y: -114}
+        - {x: 0, y: -4}
+        - {x: -2, y: 0}
+      - - {x: -54, y: -163}
+        - {x: -51, y: -162}
+        - {x: -51, y: -159}
+        - {x: -54, y: -158}
+        - {x: -56, y: -160}
+    - name: He_shoot1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 328
+        width: 84
+        height: 181
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 0}
+        - {x: -77, y: 0}
+        - {x: -84, y: -10}
+        - {x: -84, y: -62}
+        - {x: -55, y: -181}
+        - {x: -31, y: -181}
+        - {x: -27, y: -164}
+        - {x: 0, y: -71}
+        - {x: 0, y: -4}
+    - name: He_shoot2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 326
+        width: 84
+        height: 180
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 0}
+        - {x: -84, y: -96}
+        - {x: -61, y: -155}
+        - {x: -57, y: -156}
+        - {x: -55, y: -156}
+        - {x: -59, y: -156}
+        - {x: -65, y: -160}
+        - {x: -56, y: -180}
+        - {x: -30, y: -180}
+        - {x: -21, y: -178}
+        - {x: 0, y: -75}
+        - {x: 0, y: -5}
+        - {x: -5, y: 0}
+    - name: He_shoot3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 325
+        width: 84
+        height: 181
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 0}
+        - {x: -84, y: -105}
+        - {x: -64, y: -181}
+        - {x: -31, y: -181}
+        - {x: 0, y: -71}
+        - {x: 0, y: -9}
+        - {x: -10, y: 0}
+    - name: He_shoot4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 325
+        width: 84
+        height: 181
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 0}
+        - {x: -84, y: -181}
+        - {x: -37, y: -181}
+        - {x: 0, y: -111}
+        - {x: 0, y: -6}
+        - {x: -3, y: 0}
+    - name: He_shoot5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 321
+        width: 84
+        height: 185
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -178}
+        - {x: -53, y: -179}
+        - {x: -53, y: -182}
+        - {x: -51, y: -185}
+        - {x: -43, y: -185}
+        - {x: -43, y: -181}
+        - {x: -47, y: -178}
+      - - {x: -79, y: 0}
+        - {x: -84, y: -10}
+        - {x: -84, y: -177}
+        - {x: -79, y: -179}
+        - {x: -44, y: -179}
+        - {x: 0, y: -106}
+        - {x: 0, y: 0}
+    - name: He_shoot6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 321
+        width: 84
+        height: 185
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -178}
+        - {x: -53, y: -179}
+        - {x: -53, y: -182}
+        - {x: -51, y: -185}
+        - {x: -43, y: -185}
+        - {x: -43, y: -181}
+        - {x: -47, y: -178}
+      - - {x: -78, y: 0}
+        - {x: -84, y: -3}
+        - {x: -84, y: -178}
+        - {x: -56, y: -178}
+        - {x: -50, y: -176}
+        - {x: 0, y: -104}
+        - {x: 0, y: -6}
+        - {x: -3, y: 0}
+    - name: He_shoot7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 325
+        width: 84
+        height: 181
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -179}
+        - {x: -59, y: -181}
+        - {x: -54, y: -181}
+        - {x: -54, y: -179}
+        - {x: -56, y: -177}
+        - {x: -58, y: -177}
+      - - {x: -84, y: 0}
+        - {x: -84, y: -175}
+        - {x: -60, y: -175}
+        - {x: 0, y: -98}
+        - {x: 0, y: -8}
+        - {x: -3, y: 0}
+    - name: He_shoot8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 154
+        width: 94
+        height: 167
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 0}
+        - {x: -94, y: -167}
+        - {x: -66, y: -167}
+        - {x: 0, y: -98}
+        - {x: 0, y: 0}
+    - name: He_shoot9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 136
+        width: 84
+        height: 185
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -178}
+        - {x: -53, y: -179}
+        - {x: -53, y: -182}
+        - {x: -51, y: -185}
+        - {x: -43, y: -185}
+        - {x: -43, y: -181}
+        - {x: -47, y: -178}
+      - - {x: -84, y: 0}
+        - {x: -84, y: -178}
+        - {x: -65, y: -178}
+        - {x: -61, y: -176}
+        - {x: 0, y: -97}
+        - {x: 0, y: -8}
+        - {x: -3, y: 0}
+      - - {x: -60, y: -154}
+        - {x: -65, y: -159}
+        - {x: -65, y: -167}
+        - {x: -60, y: -172}
+        - {x: -52, y: -172}
+        - {x: -47, y: -170}
+        - {x: -47, y: -159}
+        - {x: -49, y: -154}
+    - name: He_shoot10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 133
+        width: 84
+        height: 184
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 0}
+        - {x: -84, y: -8}
+        - {x: -84, y: -116}
+        - {x: -64, y: -179}
+        - {x: -54, y: -184}
+        - {x: -33, y: -184}
+        - {x: 0, y: -101}
+        - {x: 0, y: -6}
+        - {x: -2, y: 0}
+    - name: He_shoot11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 149
+        width: 84
+        height: 169
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 0}
+        - {x: -84, y: -7}
+        - {x: -84, y: -103}
+        - {x: -49, y: -153}
+        - {x: -32, y: -153}
+        - {x: -33, y: -153}
+        - {x: -35, y: -156}
+        - {x: -19, y: -169}
+        - {x: 0, y: -169}
+        - {x: 0, y: 0}
+    - name: He_leave1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 509
+        width: 84
+        height: 189
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 0}
+        - {x: -84, y: -138}
+        - {x: -83, y: -145}
+        - {x: -52, y: -189}
+        - {x: -41, y: -189}
+        - {x: -39, y: -187}
+        - {x: 0, y: -116}
+        - {x: 0, y: 0}
+    - name: He_leave2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 524
+        width: 84
+        height: 174
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -2}
+        - {x: -3, y: 0}
+        - {x: -65, y: 0}
+        - {x: -83, y: -7}
+        - {x: -84, y: -16}
+        - {x: -84, y: -70}
+        - {x: -69, y: -136}
+        - {x: -56, y: -174}
+        - {x: -37, y: -174}
+        - {x: -24, y: -157}
+        - {x: -18, y: -147}
+        - {x: 0, y: -89}
+    - name: He_leave3
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 521
+        width: 84
+        height: 177
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 0}
+        - {x: -84, y: -157}
+        - {x: -62, y: -177}
+        - {x: -9, y: -177}
+        - {x: 0, y: -150}
+        - {x: 0, y: 0}
+    - name: He_bullet
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: He_bullet_stable01
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 102
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: He_bullet_stable02
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: He_bullet_explode01
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 52
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: He_bullet_explode02
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19.5}
+        - {x: -18, y: -10.5}
+        - {x: -13, y: -19.5}
+        - {x: 6, y: -19.5}
+        - {x: 18, y: 2.5}
+        - {x: 18, y: 19.5}
+    - name: He_bullet_explode03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 41
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 14}
+        - {x: -13.5, y: 14}
+        - {x: -14.5, y: 13}
+        - {x: -14.5, y: -23}
+        - {x: 8.5, y: -23}
+        - {x: 10.5, y: -14}
+        - {x: 10.5, y: 12}
+        - {x: 9.5, y: 13}
+      - - {x: 11.5, y: 23}
+        - {x: 11.5, y: 10}
+        - {x: 13.5, y: 9}
+        - {x: 24.5, y: 9}
+        - {x: 24.5, y: 23}
+      - - {x: -24.5, y: 23}
+        - {x: -24.5, y: 10}
+        - {x: -14.5, y: 10}
+        - {x: -11.5, y: 11}
+        - {x: -11.5, y: 23}
+    - name: He_bullet_explode04
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 25
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45475483, y: 0.5188691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.378082, y: -23.320839}
+        - {x: -15.378082, y: -27.320839}
+        - {x: -15.378082, y: -34.32084}
+        - {x: -13.378082, y: -36.32084}
+        - {x: -2.3780823, y: -36.32084}
+        - {x: -0.37808228, y: -34.32084}
+        - {x: -0.37808228, y: -27.320839}
+        - {x: -4.3780823, y: -23.320839}
+      - - {x: 4.6219177, y: 13.679161}
+        - {x: -10.378082, y: 13.679161}
+        - {x: -14.378082, y: 9.679161}
+        - {x: -14.378082, y: -5.320839}
+        - {x: -13.378082, y: -10.320839}
+        - {x: -12.378082, y: -11.320839}
+        - {x: 4.6219177, y: -11.320839}
+        - {x: 10.621918, y: -10.320839}
+        - {x: 10.621918, y: 9.679161}
+        - {x: 9.621918, y: 12.679161}
+      - - {x: 26.621918, y: 30.679161}
+        - {x: 24.621918, y: 26.679161}
+        - {x: 24.621918, y: 16.679161}
+        - {x: 27.621918, y: 15.679161}
+        - {x: 37.621918, y: 15.679161}
+        - {x: 37.621918, y: 30.679161}
+      - - {x: -31.378082, y: 33.67916}
+        - {x: -31.378082, y: 22.679161}
+        - {x: -29.378082, y: 20.679161}
+        - {x: -22.378082, y: 20.679161}
+        - {x: -18.378082, y: 22.679161}
+        - {x: -18.378082, y: 31.679161}
+        - {x: -19.378082, y: 33.67916}
+    - name: He_bullet_explode05
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 14
+        width: 106
+        height: 96
+      alignment: 9
+      pivot: {x: 0.42721328, y: 0.52191854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.284607, y: -48.10418}
+        - {x: -18.284607, y: -50.10418}
+        - {x: -4.284607, y: -50.10418}
+        - {x: -4.284607, y: -40.10418}
+        - {x: -5.284607, y: -37.10418}
+        - {x: -15.284607, y: -37.10418}
+        - {x: -19.284607, y: -41.10418}
+      - - {x: 9.715393, y: 12.895821}
+        - {x: 4.715393, y: 13.895821}
+        - {x: -12.284607, y: 13.895821}
+        - {x: -14.284607, y: 12.895821}
+        - {x: -14.284607, y: -11.104179}
+        - {x: 6.715393, y: -11.104179}
+        - {x: 10.715393, y: -8.104179}
+        - {x: 10.715393, y: 9.895821}
+      - - {x: 51.715393, y: 41.89582}
+        - {x: 47.715393, y: 37.89582}
+        - {x: 47.715393, y: 30.89582}
+        - {x: 51.715393, y: 26.89582}
+        - {x: 58.715393, y: 26.89582}
+        - {x: 60.715393, y: 28.89582}
+        - {x: 60.715393, y: 39.89582}
+        - {x: 58.715393, y: 41.89582}
+      - - {x: -45.284607, y: 45.89582}
+        - {x: -45.284607, y: 33.89582}
+        - {x: -43.284607, y: 32.89582}
+        - {x: -36.284607, y: 32.89582}
+        - {x: -32.284607, y: 34.89582}
+        - {x: -32.284607, y: 45.89582}
+    - name: He Avatar
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 202
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 60}
+        - {x: -43, y: 48}
+        - {x: -45, y: 32}
+        - {x: -45, y: -9}
+        - {x: -36, y: -35}
+        - {x: -17, y: -60}
+        - {x: 1, y: -60}
+        - {x: 24, y: -45}
+        - {x: 43, y: -3}
+        - {x: 43, y: 53}
+        - {x: 21, y: 60}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

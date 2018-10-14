@@ -1,0 +1,869 @@
+fileFormatVersion: 2
+guid: 31105e70689104912a9be73c64aaafa9
+timeCreated: 1440069238
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blocks_0
+    21300002: gray_long
+    21300004: Blocks_2
+    21300006: Blocks_3
+    21300008: Blocks_4
+    21300010: Blocks_5
+    21300012: wall
+    21300014: gray_block
+    21300016: red_block
+    21300018: red_long
+    21300020: orange_block
+    21300022: orange_long
+    21300024: white_block
+    21300026: yellow_long
+    21300028: green_block
+    21300030: green_long
+    21300032: blue_block
+    21300034: blue_long
+    21300036: white_long
+    21300038: Blocks_1
+    21300040: puple_long
+    21300042: purple_block
+    21300044: indigo_block
+    21300046: indigo_long
+    21300048: horizontal_block
+    21300050: vertical_block
+    21300052: change_01
+    21300054: change_02
+    21300056: change+03
+    21300058: change_04
+    21300060: change_05
+    21300062: change_06
+    21300064: change_07
+    21300066: change_08
+    21300068: change_09
+    21300070: change_10
+    21300072: change_11
+    21300074: change_12
+    21300076: change_13
+    21300078: change_14
+    21300080: change_15
+    21300082: change_16
+    21300084: change_18
+    21300086: change_19
+    21300088: change_20
+    21300090: change_21
+    21300092: change_22
+    21300094: change_23
+    21300096: change_24
+    21300098: change_25
+    21300100: change_26
+    21300102: change_27
+    21300104: change_28
+    21300106: change_29
+    21300108: change_30
+    21300110: change_31
+    21300112: change_32
+    21300114: change_33
+    21300116: change_34
+    21300118: change_35
+    21300120: change_36
+    21300122: change_37
+    21300124: change_38
+    21300126: change_39
+    21300128: change_40
+    21300130: change_41
+    21300132: change_42
+    21300134: change_43
+    21300136: change_44
+    21300138: change_45
+    21300140: change_46
+    21300142: change_47
+    21300144: change_48
+    21300146: change_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blocks_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1038
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gray_long
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1012
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 882
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 858
+        width: 546
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 489
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 289
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 457
+        width: 88
+        height: 591
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gray_block
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1012
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_block
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 686
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_long
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 679
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orange_block
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 504
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: orange_long
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 502
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: white_block
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 353
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yellow_long
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 350
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: green_block
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 182
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: green_long
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 182
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_block
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 41
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_long
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 34
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: white_long
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 341
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_1
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 333
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: puple_long
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 182
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_block
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 182
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indigo_block
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 38
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indigo_long
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 34
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: horizontal_block
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 550
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: vertical_block
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 706
+        width: 556
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_02
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change+03
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1293
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_04
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1297
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_05
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_06
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_07
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_08
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_09
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_10
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_11
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_12
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_13
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_14
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_16
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1308
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_18
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1197
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_19
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1088
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_20
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 979
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_21
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 872
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_22
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 765
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_23
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 660
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_24
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 555
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_25
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 450
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1146
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_32
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_33
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_34
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_35
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_36
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_37
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_38
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1169
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_39
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1181
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_40
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1196
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_41
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1016
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_42
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1019
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_43
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1022
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_44
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1028
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_45
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1028
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_46
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 891
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_47
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 891
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_48
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 891
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: change_49
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 891
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

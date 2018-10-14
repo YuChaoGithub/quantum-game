@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 4a476b3989a0c42a2a27dc939e31b109
+timeCreated: 1445570134
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: electron
+    21300002: proton
+    21300004: bubble_prton
+    21300006: bubble_electron
+    21300008: Cl_0
+    21300010: Cl_1
+    21300012: Cl_2
+    21300014: Cl_3
+    21300016: Cl_4
+    21300018: Cl_5
+    21300020: Cl_6
+    21300022: Cl_7
+    21300024: Cl_8
+    21300026: Cl_9
+    21300028: Cl_10
+    21300030: Cl_11
+    21300032: Cl_12
+    21300034: Cl_13
+    21300036: Cl_14
+    21300038: Cl_15
+    21300040: Cl_16
+    21300042: Cl_17
+    21300044: Cl_18
+    21300046: Cl_19
+    21300048: Cl_20
+    21300050: Cl_21
+    21300052: Cl_22
+    21300054: Cl_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: electron
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 634
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: proton
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 629
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_prton
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 667
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bubble_electron
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 638
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 631
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 627
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 666
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 634
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 666
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 634
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 628
+        width: 184
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 603
+        width: 673
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 551
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 488
+        width: 189
+        height: 105
+      alignment: 9
+      pivot: {x: .0348812677, y: .523584545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 484
+        width: 191
+        height: 104
+      alignment: 9
+      pivot: {x: .0447654538, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 484
+        width: 191
+        height: 102
+      alignment: 9
+      pivot: {x: .0462338105, y: .51213944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 375
+        width: 187
+        height: 99
+      alignment: 9
+      pivot: {x: .0431487337, y: .500000954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 372
+        width: 197
+        height: 86
+      alignment: 9
+      pivot: {x: .041199971, y: .543192327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 366
+        width: 197
+        height: 91
+      alignment: 9
+      pivot: {x: .0411996618, y: .568031073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 196
+        height: 86
+      alignment: 9
+      pivot: {x: .17531836, y: .755466521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 271
+        width: 198
+        height: 87
+      alignment: 9
+      pivot: {x: .170947149, y: .752528369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 259
+        width: 198
+        height: 98
+      alignment: 9
+      pivot: {x: .178597957, y: .662339807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 171
+        width: 195
+        height: 86
+      alignment: 9
+      pivot: {x: .184267461, y: .750941634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 169
+        width: 192
+        height: 86
+      alignment: 9
+      pivot: {x: .186655685, y: .742156088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 186
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 36
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cl_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 33
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

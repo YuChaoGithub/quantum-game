@@ -1,0 +1,82 @@
+fileFormatVersion: 2
+guid: 9c7805fed1e224ce3a06231c3e86d7e4
+timeCreated: 1468375489
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Al_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Al_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0.2912882, y: 0.43477747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.177948, y: 113.30563}
+        - {x: 22.177948, y: 123.30563}
+        - {x: -27.822052, y: 123.30563}
+        - {x: -58.822052, y: 114.30563}
+        - {x: -65.82205, y: 102.30563}
+        - {x: -65.82205, y: -78.69437}
+        - {x: -43.822052, y: -92.69437}
+        - {x: 34.177948, y: -92.69437}
+        - {x: 67.17795, y: -83.69437}
+        - {x: 67.17795, y: -75.69437}
+        - {x: 66.17795, y: -73.69437}
+        - {x: 67.17795, y: -33.694366}
+        - {x: 67.17795, y: 103.30563}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

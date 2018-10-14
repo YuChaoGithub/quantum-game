@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 9c292601537c54139bf900184a48a818
+timeCreated: 1444986273
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Co_0
+    21300002: Co_1
+    21300004: Co_2
+    21300006: Co_3
+    21300008: Co_4
+    21300010: Co_5
+    21300012: Co_6
+    21300014: Co_7
+    21300016: Co_8
+    21300018: Co_9
+    21300020: Co_10
+    21300022: Co_11
+    21300024: Co_12
+    21300026: Co_13
+    21300028: Co_14
+    21300030: Co_15
+    21300032: Co_16
+    21300034: Co_17
+    21300036: Co_18
+    21300038: Co_19
+    21300040: Co_20
+    21300042: Co_21
+    21300044: Co_22
+    21300046: Co_23
+    21300048: Co_24
+    21300050: Co_25
+    21300052: Co_26
+    21300054: Co_27
+    21300056: Co_28
+    21300058: Co_29
+    21300060: Co_30
+    21300062: Co_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Co_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 489
+        width: 98
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 633
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 629
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 633
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 630
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 633
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 631
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 636
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 636
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 634
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 633
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 634
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_12
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 632
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 495
+        width: 186
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 518
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 499
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 426
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 422
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 419
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 420
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 420
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 418
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 418
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_24
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 418
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 418
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 418
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_27
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 419
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_28
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 406
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 416
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_30
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 411
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Co_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 309
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

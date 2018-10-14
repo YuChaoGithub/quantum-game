@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: d31f1e392232c45a9b52611863234757
+timeCreated: 1467371660
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: H_bottle
+    21300002: He Bottle
+    21300004: Li Bottle
+    21300006: Boss Sheet_0
+    21300008: B Bottle
+    21300010: Boss Sheet_1
+    21300012: Boss Sheet_2
+    21300014: Boss Sheet_3
+    21300016: Boss Sheet_4
+    21300018: Boss Sheet_5
+    21300020: Boss Sheet_6
+    21300022: Boss Sheet_7
+    21300024: Boss Sheet_8
+    21300026: Boss Sheet_9
+    21300028: Boss Sheet_10
+    21300030: Boss Sheet_11
+    21300032: Boss Sheet_12
+    21300034: Boss Sheet_13
+    21300036: Boss Sheet_14
+    21300038: Boss Sheet_15
+    21300040: Boss Sheet_16
+    21300042: Boss Sheet_17
+    21300044: Boss Sheet_18
+    21300046: Boss Sheet_19
+    21300048: Boss Sheet_20
+    21300050: Boss Sheet_21
+    21300052: Boss Sheet_22
+    21300054: Boss Sheet_23
+    21300056: Boss Sheet_24
+    21300058: Boss Sheet_25
+    21300060: Boss Sheet_26
+    21300062: Boss Sheet_27
+    21300064: Boss Sheet_28
+    21300066: Boss Sheet_29
+    21300068: Boss Sheet_30
+    21300070: Boss Sheet_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: H_bottle
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 434
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+    - name: He Bottle
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 435
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 30.5}
+        - {x: -16.5, y: 27.5}
+        - {x: -16.5, y: -30.5}
+        - {x: 15.5, y: -30.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: 20.5}
+        - {x: 10.5, y: 30.5}
+    - name: Li Bottle
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 30}
+        - {x: -24, y: 26}
+        - {x: -24, y: -30}
+        - {x: 19, y: -30}
+        - {x: 24, y: -15}
+        - {x: 24, y: 24}
+        - {x: 13, y: 30}
+    - name: Boss Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 423
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 38}
+        - {x: -24, y: 32}
+        - {x: -24, y: -38}
+        - {x: 24, y: -38}
+        - {x: 24, y: 29}
+        - {x: 17, y: 38}
+    - name: B Bottle
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 423
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 33.5}
+        - {x: -27, y: 14.5}
+        - {x: -27, y: -20.5}
+        - {x: -17, y: -31.5}
+        - {x: -14, y: -33.5}
+        - {x: 25, y: -33.5}
+        - {x: 27, y: -23.5}
+        - {x: 27, y: 11.5}
+        - {x: 15, y: 33.5}
+    - name: Boss Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 424
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 34}
+        - {x: -20.5, y: 29}
+        - {x: -22.5, y: 15}
+        - {x: -22.5, y: -29}
+        - {x: -7.5, y: -34}
+        - {x: 21.5, y: -34}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: 27}
+        - {x: 17.5, y: 34}
+    - name: Boss Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 428
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 25.5}
+        - {x: -28, y: -11.5}
+        - {x: -12, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 25, y: -22.5}
+        - {x: 28, y: -7.5}
+        - {x: 28, y: 21.5}
+        - {x: 27, y: 25.5}
+    - name: Boss Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 426
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+        - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+      - - {x: -8, y: 35}
+        - {x: -9, y: 34}
+        - {x: -26, y: 12}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 19}
+        - {x: 12, y: 35}
+    - name: Boss Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 422
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 25}
+        - {x: -19.5, y: 16}
+        - {x: -19.5, y: -25}
+        - {x: 19.5, y: -25}
+        - {x: 19.5, y: 15}
+        - {x: 6.5, y: 25}
+    - name: Boss Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 416
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 26.5}
+        - {x: -22.5, y: 23.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 21.5, y: -26.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 22.5, y: 19.5}
+        - {x: 20.5, y: 26.5}
+    - name: Boss Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 412
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 28.5}
+        - {x: -23, y: 27.5}
+        - {x: -23, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 24.5}
+        - {x: 18, y: 28.5}
+    - name: Boss Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 411
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 26}
+        - {x: -24, y: 22}
+        - {x: -24, y: -26}
+        - {x: 24, y: -26}
+        - {x: 24, y: 24}
+        - {x: 12, y: 26}
+    - name: Boss Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 352
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: -26}
+        - {x: -14.5, y: -29}
+        - {x: 8.5, y: -29}
+        - {x: 18.5, y: -26}
+        - {x: 18.5, y: 29}
+    - name: Boss Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 352
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 32}
+        - {x: -12, y: 32}
+        - {x: -28, y: 10}
+        - {x: -28, y: -24}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 28, y: -20}
+        - {x: 28, y: 10}
+    - name: Boss Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 335
+        width: 12
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Boss Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 347
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 28.5}
+        - {x: -24, y: 12.5}
+        - {x: -24, y: -19.5}
+        - {x: -19, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 24, y: -15.5}
+        - {x: 24, y: 12.5}
+        - {x: 13, y: 28.5}
+    - name: Boss Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 437
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 24.5}
+        - {x: -27, y: -17.5}
+        - {x: -16, y: -24.5}
+        - {x: 27, y: -24.5}
+        - {x: 27, y: 21.5}
+        - {x: 21, y: 24.5}
+    - name: Boss Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 435
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 26.5}
+        - {x: -14.5, y: 23.5}
+        - {x: -24.5, y: 11.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 19.5, y: -26.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 24.5, y: 26.5}
+    - name: Boss Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 340
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 30.5}
+        - {x: -24, y: 23.5}
+        - {x: -24, y: -24.5}
+        - {x: -12, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 24, y: -28.5}
+        - {x: 24, y: 30.5}
+    - name: Boss Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 341
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -21, y: 24.5}
+        - {x: -21, y: -30.5}
+        - {x: 21, y: -30.5}
+        - {x: 21, y: 29.5}
+        - {x: 19, y: 30.5}
+    - name: Boss Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 342
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 30.5}
+        - {x: -26, y: 8.5}
+        - {x: -26, y: -29.5}
+        - {x: -24, y: -30.5}
+        - {x: 26, y: -30.5}
+        - {x: 26, y: 19.5}
+        - {x: 15, y: 30.5}
+    - name: Boss Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 348
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -26.5, y: -16.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 26.5, y: -3.5}
+        - {x: 26.5, y: 14.5}
+        - {x: 7.5, y: 25.5}
+    - name: Boss Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 343
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -20.5, y: -16.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 20.5, y: 14.5}
+        - {x: 6.5, y: 24.5}
+    - name: Boss Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 334
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 31}
+        - {x: -19.5, y: 28}
+        - {x: -19.5, y: -31}
+        - {x: 19.5, y: -31}
+        - {x: 19.5, y: -5}
+        - {x: 2.5, y: 31}
+    - name: Boss Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 336
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 28.5}
+        - {x: -22.5, y: -28.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 22.5, y: 23.5}
+        - {x: 14.5, y: 28.5}
+    - name: Boss Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 334
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 32.5}
+        - {x: -28, y: 28.5}
+        - {x: -33, y: -13.5}
+        - {x: -33, y: -32.5}
+        - {x: 33, y: -32.5}
+        - {x: 33, y: -1.5}
+        - {x: 16, y: 32.5}
+    - name: Boss Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 332
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 30}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: -30}
+        - {x: 18.5, y: -30}
+        - {x: 18.5, y: 28}
+        - {x: 13.5, y: 30}
+    - name: Boss Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 334
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 27}
+        - {x: -22.5, y: 11}
+        - {x: -22.5, y: -27}
+        - {x: 22.5, y: -27}
+        - {x: 22.5, y: 15}
+        - {x: 9.5, y: 27}
+    - name: Boss Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 264
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 31.5}
+        - {x: -24.5, y: 26.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -25.5, y: -30.5}
+        - {x: -16.5, y: -31.5}
+        - {x: 25.5, y: -31.5}
+        - {x: 25.5, y: 23.5}
+        - {x: 15.5, y: 31.5}
+    - name: Boss Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 259
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 33}
+        - {x: -25, y: 29}
+        - {x: -25, y: -33}
+        - {x: 25, y: -33}
+        - {x: 25, y: 30}
+        - {x: 14, y: 33}
+    - name: Boss Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 251
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 34.5}
+        - {x: -20.5, y: 34.5}
+        - {x: -30.5, y: 10.5}
+        - {x: -30.5, y: -22.5}
+        - {x: -18.5, y: -34.5}
+        - {x: 19.5, y: -34.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 30.5, y: 22.5}
+        - {x: 28.5, y: 29.5}
+    - name: Boss Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 242
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42.5}
+        - {x: -29, y: 24.5}
+        - {x: -29, y: -42.5}
+        - {x: 29, y: -42.5}
+        - {x: 29, y: 26.5}
+        - {x: 14, y: 42.5}
+    - name: Boss Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 246
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 34}
+        - {x: -28.5, y: 12}
+        - {x: -28.5, y: -12}
+        - {x: -20.5, y: -34}
+        - {x: 23.5, y: -34}
+        - {x: 28.5, y: -17}
+        - {x: 28.5, y: 15}
+        - {x: 12.5, y: 34}
+    - name: Boss Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 246
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -23, y: 23}
+        - {x: -23, y: -32}
+        - {x: -21, y: -35}
+        - {x: 23, y: -35}
+        - {x: 23, y: 32}
+        - {x: 15, y: 35}
+    - name: Boss Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 247
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 36.5}
+        - {x: -17, y: 34.5}
+        - {x: -26, y: 14.5}
+        - {x: -26, y: -36.5}
+        - {x: 26, y: -36.5}
+        - {x: 26, y: 4.5}
+        - {x: 15, y: 36.5}
+    - name: Boss Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 232
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 40.5}
+        - {x: -8.5, y: 36.5}
+        - {x: -28.5, y: 15.5}
+        - {x: -33.5, y: 8.5}
+        - {x: -34.5, y: 5.5}
+        - {x: -34.5, y: -21.5}
+        - {x: -26.5, y: -38.5}
+        - {x: -12.5, y: -40.5}
+        - {x: 21.5, y: -40.5}
+        - {x: 34.5, y: -28.5}
+        - {x: 34.5, y: 17.5}
+        - {x: 12.5, y: 40.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

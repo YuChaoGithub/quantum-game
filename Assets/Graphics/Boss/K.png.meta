@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: a281b504093a24d519c8e3eef7594682
+timeCreated: 1449809283
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: K_0
+    21300002: K_1
+    21300004: K_2
+    21300006: K_3
+    21300008: K_4
+    21300010: K_5
+    21300012: K_6
+    21300014: K_7
+    21300016: K_8
+    21300018: K_9
+    21300020: K_10
+    21300022: K_11
+    21300024: K_12
+    21300026: K_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: K_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 498
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 551
+        width: 95
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 493
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 492
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 492
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 492
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 490
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 169
+        width: 88
+        height: 261
+      alignment: 9
+      pivot: {x: .737537444, y: .0170620736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 170
+        width: 88
+        height: 252
+      alignment: 9
+      pivot: {x: .746813536, y: .0215030238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 172
+        width: 88
+        height: 244
+      alignment: 9
+      pivot: {x: .746813357, y: .0211623143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 173
+        width: 88
+        height: 235
+      alignment: 9
+      pivot: {x: .746812999, y: .0251330435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 174
+        width: 88
+        height: 225
+      alignment: 9
+      pivot: {x: .738302767, y: .0206712503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 173
+        width: 88
+        height: 215
+      alignment: 9
+      pivot: {x: .746812999, y: .0227612872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: K_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 118
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

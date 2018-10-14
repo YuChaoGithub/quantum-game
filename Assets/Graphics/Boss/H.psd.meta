@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 9babbe31ab05749a6b97de3e793f691d
+timeCreated: 1439798472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: H_0
+    21300002: H_emit01
+    21300004: H_emit02
+    21300006: H_emit04
+    21300008: H_emit05
+    21300010: H_emit06
+    21300012: H_emit07
+    21300014: H_electron
+    21300016: H_explode01
+    21300018: H_explode02
+    21300020: H_explode03
+    21300022: H_explode04
+    21300024: H_explode05
+    21300026: H_explode06
+    21300028: H_explode07
+    21300030: H_mini_1
+    21300032: H_mini_2
+    21300034: H_mini_3
+    21300036: H_mini_4
+    21300038: H_mini_5
+    21300040: H_mini_6
+    21300042: H_mini_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: H_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 596
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_emit01
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 591
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_emit02
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 581
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_emit04
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 562
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_emit05
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 543
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_emit06
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 436
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_emit07
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 447
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_electron
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 127
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_explode01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_explode02
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_explode03
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_explode04
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_explode05
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 8
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_explode06
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 193
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_explode07
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 201
+        width: 326
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_mini_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 357
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_mini_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 307
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_mini_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 257
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_mini_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 198
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_mini_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 140
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_mini_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 133
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: H_mini_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 127
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

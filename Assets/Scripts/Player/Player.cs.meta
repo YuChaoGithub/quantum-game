@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9e39067c779154184b4bbfc743039191
+timeCreated: 1437993790
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - protonBullet: {fileID: 127154, guid: e1912d69fd4384b1f9a0a284e47c9818, type: 2}
+  - electronKnife: {fileID: 142386, guid: 5fb33d5e22f8e442fbc659fbc41435ce, type: 2}
+  - electronBomb: {fileID: 132926, guid: a83605844b4c94479a753c1b1f45b419, type: 2}
+  - neutronBullet: {fileID: 127930, guid: 61821cfb04a174ef6aff613090508577, type: 2}
+  - healthBar: {instanceID: 0}
+  - typeOneSwitch: {instanceID: 0}
+  - typeTwoSwitch: {instanceID: 0}
+  - thisAvatar: {instanceID: 0}
+  - typeOneAvatar: {instanceID: 0}
+  - typeTwoAvatar: {instanceID: 0}
+  - playerTransformObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 88a291c0cbe494f878c55630be04501b
+timeCreated: 1453462286
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ga_0
+    21300002: Ga_1
+    21300004: Ga_2
+    21300006: Ga_3
+    21300008: Ga_4
+    21300010: Ga_5
+    21300012: Ga_6
+    21300014: Ga_7
+    21300016: Ga_8
+    21300018: Ga_9
+    21300020: Ga_10
+    21300022: Ga_11
+    21300024: Ga_12
+    21300026: Ga_13
+    21300028: Ga_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ga_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 568
+        width: 195
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 18.5}
+        - {x: -52.5, y: 19.5}
+        - {x: -58.5, y: 6.5}
+        - {x: -58.5, y: -5.5}
+        - {x: -56.5, y: -11.5}
+        - {x: -47.5, y: -19.5}
+        - {x: -55.5, y: -14.5}
+        - {x: -61.5, y: -7.5}
+        - {x: -58.5, y: 19.5}
+        - {x: -16.5, y: 31.5}
+        - {x: -7.5, y: 55.5}
+        - {x: -8.5, y: 62.5}
+        - {x: -97.5, y: 62.5}
+        - {x: -97.5, y: -39.5}
+        - {x: -52.5, y: -61.5}
+        - {x: -28.5, y: -62.5}
+        - {x: 95.5, y: -62.5}
+        - {x: 97.5, y: -58.5}
+        - {x: 97.5, y: -35.5}
+        - {x: 76.5, y: 2.5}
+    - name: Ga_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 231
+        width: 64
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 145}
+        - {x: -32, y: -145}
+        - {x: 19, y: -145}
+        - {x: 32, y: -19}
+        - {x: 32, y: 145}
+    - name: Ga_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 227
+        width: 64
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 145}
+        - {x: -32, y: -145}
+        - {x: 19, y: -145}
+        - {x: 32, y: -19}
+        - {x: 32, y: 145}
+    - name: Ga_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 228
+        width: 64
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 145}
+        - {x: -32, y: -145}
+        - {x: 19, y: -145}
+        - {x: 32, y: -19}
+        - {x: 32, y: 145}
+    - name: Ga_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 511
+        width: 266
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133, y: 26}
+        - {x: -133, y: -26}
+        - {x: 133, y: -26}
+        - {x: 133, y: 26}
+    - name: Ga_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 450
+        width: 266
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133, y: 26}
+        - {x: -133, y: -26}
+        - {x: 133, y: -26}
+        - {x: 133, y: 26}
+    - name: Ga_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 393
+        width: 266
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133, y: 26}
+        - {x: -133, y: -26}
+        - {x: 133, y: -26}
+        - {x: 133, y: 26}
+    - name: Ga_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 333
+        width: 266
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133, y: 26}
+        - {x: -133, y: -26}
+        - {x: 133, y: -26}
+        - {x: 133, y: 26}
+    - name: Ga_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 206
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Ga_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 207
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: Ga_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 99
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 17.5}
+        - {x: -20, y: -17.5}
+        - {x: 20, y: -17.5}
+        - {x: 20, y: 17.5}
+    - name: Ga_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 44
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 20}
+        - {x: -19, y: -18}
+        - {x: -15, y: -20}
+        - {x: 19, y: -20}
+        - {x: 19, y: 16}
+        - {x: 15, y: 20}
+    - name: Ga_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 73
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 21.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 20.5, y: 14.5}
+        - {x: 15.5, y: 21.5}
+    - name: Ga_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 73
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 20.5}
+        - {x: -19, y: -20.5}
+        - {x: 12, y: -20.5}
+        - {x: 19, y: -18.5}
+        - {x: 19, y: 19.5}
+        - {x: 15, y: 20.5}
+    - name: Ga_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 39
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 50.5}
+        - {x: -50.5, y: 41.5}
+        - {x: -50.5, y: -39.5}
+        - {x: -43.5, y: -50.5}
+        - {x: 27.5, y: -50.5}
+        - {x: 50.5, y: -29.5}
+        - {x: 50.5, y: 34.5}
+        - {x: 36.5, y: 50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

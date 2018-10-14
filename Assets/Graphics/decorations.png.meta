@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: a201027871a6d4c1a8f94bcdb270fd73
+timeCreated: 1444653659
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Red
+    21300002: Orange
+    21300004: Yellow
+    21300006: Green
+    21300008: Indigo
+    21300010: Blue
+    21300012: Purple
+    21300014: cloud1
+    21300016: cloud2
+    21300018: cloud3
+    21300020: cloud4
+    21300022: cloud5
+    21300024: cloud6
+    21300026: balloon red
+    21300028: balloon green
+    21300030: balloon blue
+    21300032: balloon yellow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Red
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 448
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 448
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 448
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Green
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Indigo
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 448
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blue
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Purple
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 448
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 457
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 462
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 455
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 463
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 459
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 462
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balloon red
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 427
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balloon green
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 424
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balloon blue
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 424
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: balloon yellow
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 418
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
